@@ -4,7 +4,7 @@
     {
          float n1,n2;
          
-         printf("JKKKigite o primeiro e o segundo numero: ");
+         printf("Digite o primeiro e o segundo numero: ");
          scanf("%f%f",&n1,&n2);
          system("cls");
          
