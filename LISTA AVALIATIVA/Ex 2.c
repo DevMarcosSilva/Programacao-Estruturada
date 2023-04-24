@@ -4,7 +4,7 @@
     {
         float x1,x2,y1,y2,distancia;
 
-        printf("Informe oS valores de X1, X2, Y1 e Y2 ");
+        printf("Informe os valores de X1, X2, Y1 e Y2 ");
         scanf("%f%f%f%f",&x1,&x2,&y1,&y2);
         system("cls");
 
